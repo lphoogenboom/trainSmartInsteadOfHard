@@ -2,11 +2,13 @@
 **Bachelor's Thesis on System Identification using Matlab**
 *Delft Center for Systems and Control, Delft University of Technology*
 
-| Students          | Supervisors  |
-|-------------------|------------- |
-| Anne Brinkman     | Kim Batselier|
-| Rooderick Ciggaar | Clara Menzen |
-| Thami Fischer     | Manon Kok    |
+## Contributors
+| Students           | Supervisors  |
+|--------------------|--------------|
+| Anne Brinkman      | Kim Batselier|
+| Rooderick Ciggaar  | Clara Menzen |
+| Thami Fischer      | Manon Kok    |
+| Laurens Hoogenboom |
 
 ## Dependencies
 * Matlab
