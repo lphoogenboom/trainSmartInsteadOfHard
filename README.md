@@ -1,4 +1,4 @@
-# Train Smart Instead of Hard with Systems and Control
+# Measurement and Prediction of Heart Rate Responses toExercise in Individual Athletes with System Identification
 **Bachelor's Thesis on System Identification using Matlab**
 *Delft Center for Systems and Control, Delft University of Technology*
 
