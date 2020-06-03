@@ -3,11 +3,11 @@
 *Delft Center for Systems and Control, Delft University of Technology*
 
 ## Contributors
-| Students           | Supervisors  |
-|--------------------|--------------|
-| Anne Brinkman      | Kim Batselier|
-| Rooderick Ciggaar  | Clara Menzen |
-| Thami Fischer      | Manon Kok    |
+| **Students**       | **Supervisors** |
+|--------------------|-----------------|
+| Anne Brinkman      | Kim Batselier   |
+| Rooderick Ciggaar  | Clara Menzen    |
+| Thami Fischer      | Manon Kok       |
 | Laurens Hoogenboom |
 
 ## Dependencies
